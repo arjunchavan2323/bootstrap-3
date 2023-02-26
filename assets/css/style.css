@@ -1,0 +1,114 @@
+/* .section{
+    background-color: #fcdb00;
+} */
+
+.section.headersection {
+    background-color: #fcdb00;
+}
+
+.headersection .navbar-default {
+    background-color: transparent;
+    border-color: transparent;
+    /* padding: 0px; */
+    border: 0px;
+}
+.headersection .navbar-brand {
+    padding: 0 15px;
+}
+
+.headersection .navbar-nav a {
+    /* color: #777; */
+    color: #010101;
+    text-transform: capitalize;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.headersection .pri-heading {
+    font-family: 'Poppins', sans-serif;
+    font-size: 32px;
+    color: #010101;
+    margin: 0 0 25px 0;
+    /* font-weight: bold; */
+}
+.headersection .header{
+    margin-bottom: 70px;
+}
+
+.headersection .sec-heading {
+    font-size: 20px;
+    color: #313841;
+    font-family: 'Poppins', sans-serif;
+    margin: 0 0 25px 0;
+}
+
+.headersection .para {
+        font-size: 16px;
+        color: #555555;
+        margin: 0 0 0 0px;
+    }
+
+.headersection .inspire {
+    margin-top: 70px;
+}
+.fa-brands, .fab {
+    font-family: "Font Awesome 6 Brands";
+    font-weight: 400;
+    font-family: "Font Awesome 6 Brands";
+    font-weight: 400;
+    margin: 0 0 32px 0;
+    padding: 10px;
+    color: #010101;
+}
+/* featuresection for  */
+.section .pre-heading1 {
+    font-size: 32px;
+    font-weight: bold;
+    color: #010101;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    margin: 0 0 22px 0;
+}
+
+.section h2.sec-heading2 {
+    font-size: 20px;
+    color: #313841;
+    margin:0 0 85px 0;
+
+}
+
+.thumbnail .text-centre {
+    font-size: 22px;
+    color: #010101;
+}
+
+.thumbnail .text-centre {
+    padding: 0 0 0 50px;
+}
+
+i.fa-solid {
+    margin: 20px 0 0 0;
+    color: #010101;
+    font-size: 30px;
+}
+p.para {
+    margin: 30px;
+}
+
+i.fa-regular.fa-folder {
+    margin: 15px;
+    font-size: 30px;
+    color: #010101;
+}
+
+i.fa-regular.fa-envelope {
+    /* border: 30px; */
+    margin: 30px;
+    font-size: 30px;
+    color: #010101;
+    /* margin-right: 90px; */
+}
+.thumbnail {
+    margin-bottom: 85px;
+}
+

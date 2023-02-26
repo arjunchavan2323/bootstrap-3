@@ -1,0 +1,113 @@
+.section{
+    padding: 100px 0;
+}
+
+
+.a:link, a:visited{
+    text-transform: none;
+}
+
+.ul{
+    list-style: none;
+}
+/* footersection */
+
+.section.footersection {
+    background-color: #000000;
+}
+
+.footersection .pre-heading {
+    font-size: 32px;
+    color: #fcdb00;
+    text-align: centre;
+    text-align: center;
+}
+.footersection .sec-heading {
+    color: #898989;
+    font-size: 20px;
+        margin: 0 0 39px 0;
+    
+}
+.footersection .input-group {
+    position: relative;
+    display: table;
+    width: 100%;
+    border-collapse: separate;
+    margin: 30px;
+}
+
+
+.footersection .btn-pri {
+    /* margin: 30px; */
+    background-color: #fbdb00;
+    text-transform: uppercase;
+}
+
+.list-inline .li {
+    background-color: #fcdb00;
+}
+
+
+
+.footersection .fa-brands {
+    color: #fcdb00;
+    font-size: 42px;
+    margin: 70px 0 0 0;
+    
+ } 
+
+ /* footerlink */
+
+ .footersection .footerlink {
+    list-style: none;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: regular;
+    font-weight: regular;
+    margin: 126px 0 0 0;
+}
+
+.footersection a {
+    text-decoration: none;
+    color: white;
+}
+
+@media all and (max-width:600px) {
+    section.section.headersection {
+        padding: 25px;
+    }
+
+    .headersection .header {
+        margin: 0;
+        /* margin-bottom: 70px; */
+    }
+    .col-md-5.col-md-offset-2.col-lg-5.col-lg-offset-2.col-sm-6 {
+        /* margin-right: 10px; */
+        padding: 0  5px 0 0;
+    }
+    h2.sec-heading.text-centre {
+        padding: 0 10px;
+    }
+
+    input#exampleInputAmount {
+        width: 89%;
+        /* padding: 0 20px 0 0; */
+        margin: 0 20px;
+    }
+    button.btn.btn-pri {
+        margin: 20px;
+        padding: 10px 10 0 0px;
+    }
+
+    i.fa-regular.fa-envelope {
+        margin: 20px;
+    }
+    
+
+
+
+
+
+
+    
+}
